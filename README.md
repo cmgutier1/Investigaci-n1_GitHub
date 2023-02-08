@@ -20,3 +20,5 @@ Se encuentra en la nube siendo un sistema de control de versiones (VCS) llamado 
 Control de Versiones permiten a los desarrolladores trabajan proyectos simultáneamente. Los cambios se pueden desarrollar sin perjudicar, retrasar o infringir el trabajo de los ingenieros.
 
 Cuando los cambios fueron malos o generaron error a los proyectos cuando se implementa GitHub hace que sea fácil revertirlos con facilidad, permitiendo realizar cambios, proporcionando la libertad de colaborar y desarrollar con poca preocupación.
+
+•	Markdown y sus comandos 
